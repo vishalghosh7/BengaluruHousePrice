@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+   background: linear-gradient(to bottom right, rgba(52, 73, 94,0.7), rgba(44, 62, 80,0.5)), url("./images/house.jpg"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   color: white;
+}
+
+
+
